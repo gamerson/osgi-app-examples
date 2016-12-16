@@ -1,0 +1,3 @@
+-buildpath: \
+	add.api;version=latest,\
+	osgi.enroute.base.api;version=1.0

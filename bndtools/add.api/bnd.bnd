@@ -1,0 +1,4 @@
+-buildpath:  \
+	osgi.enroute.base.api;version=1.0
+
+Export-Package: add.api
